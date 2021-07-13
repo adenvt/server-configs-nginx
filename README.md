@@ -126,7 +126,7 @@ For example:
 nginx -s stop
 cd /etc
 mv nginx nginx-previous
-git clone https://github.com/h5bp/server-configs-nginx.git nginx
+git clone https://github.com/adenvt/server-configs-nginx.git nginx
 # install-specific edits
 nginx
 ```
